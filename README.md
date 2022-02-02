@@ -1,0 +1,1 @@
+Hi! I decided to make my first project. The purpose is to learn fundamentals and have fun. Lets do this!
