@@ -1,0 +1,20 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+body {
+    background-color:#C1CDC1;
+}
+
+.Header {
+    color: #27408B;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#maintitle {
+    font-size: 35px;
+}
+li {
+    color: #FFD700;
+}
